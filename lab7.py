@@ -21,3 +21,18 @@
 # equal(ab,ac):-isos(ABC).
 # equal(b,c):-equal(ab,ac).
 # euqi(ABC).
+
+#swi prolog code for this is
+
+#graduating(ram).
+#happy(x):-gradudating(x).
+#smile(x):-happy(x).
+
+# equilateral(ABC).
+# isosceles(x):- equilateral(x).
+# equal_sides(AB, AC):- isosceles (_).
+# equal_angles(B,C):- equal_sides(_,_).
+
+# to check the condition the code is 
+# smile(ram).
+# equal_angles(B,C).
